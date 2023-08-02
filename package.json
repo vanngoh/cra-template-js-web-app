@@ -1,5 +1,5 @@
 {
-  "name": "@vanngoh/cra-template-web-app",
+  "name": "cra-template-js-web-app",
   "version": "1.0.0",
   "description": "CRA Template for JavaScript Web App",
   "main": "template.json",
@@ -9,15 +9,19 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanngoh/cra-template-web-app.git",
+    "url": "git+https://github.com/vanngoh/cra-template-js-web-app.git",
     "directory": "/"
   },
   "keywords": [
     "cra-template",
     "cra-template-javascript",
+    "cra-template-js-web-app",
     "webapp",
     "react-router-dom",
-    "antd"
+    "antd",
+    "tailwindcss",
+    "redux",
+    "javascript"
   ],
   "author": "Vann Goh",
   "license": "MIT",
