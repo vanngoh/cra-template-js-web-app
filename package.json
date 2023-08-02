@@ -1,0 +1,48 @@
+{
+  "name": "@vanngoh/cra-template-web-app",
+  "version": "1.0.0",
+  "description": "CRA Template for JavaScript Web App",
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanngoh/cra-template-web-app.git",
+    "directory": "/"
+  },
+  "keywords": [
+    "cra-template",
+    "cra-template-javascript",
+    "webapp",
+    "react-router-dom",
+    "antd"
+  ],
+  "author": "Vann Goh",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
